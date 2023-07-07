@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\BarricadeLimiter.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\BarricadeLimiter.pdb
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\Rocket.API.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\Rocket.Core.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\Rocket.Unturned.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\SDG.NetTransport.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\UnityEngine.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\obj\Debug\BarricadeLimiter.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\obj\Debug\BarricadeLimiter.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\obj\Debug\BarricadeLimiter.csproj.CopyComplete
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\obj\Debug\BarricadeLimiter.dll
+C:\Users\Kamil\Desktop\BarricadesLimiter\BarricadesLimiter\obj\Debug\BarricadeLimiter.pdb
